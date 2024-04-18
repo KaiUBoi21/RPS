@@ -5,3 +5,5 @@ Player1 picks their choice
 Player2 picks their choice
 App will output what both chose once they both have chosen
 App will say who won
+
+Made by Kai Michael Liu
